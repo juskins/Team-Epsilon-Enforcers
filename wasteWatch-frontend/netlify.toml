@@ -1,0 +1,4 @@
+[build]
+  base = "wasteWatch-frontend"
+  command = "npm run build"
+  publish = ".next"
